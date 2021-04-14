@@ -1,0 +1,27 @@
+{
+  "name": "object2dom",
+  "version": "1.0.0",
+  "description": "JavaScript module for turning object templates into styled DOM elements",
+  "main": "object2dom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digidub/object2dom.git"
+  },
+  "keywords": [
+    "object",
+    "template",
+    "dom",
+    "generator",
+    "html",
+    "css"
+  ],
+  "author": "Alex Cox <alexwscox@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digidub/object2dom/issues"
+  },
+  "homepage": "https://github.com/digidub/object2dom#readme"
+}
