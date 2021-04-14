@@ -1,5 +1,5 @@
 const templateOne = (() => {
-  const element = {
+  const navBar = {
     tag: 'div',
     classes: ['nav-bar'],
     children: [
@@ -39,6 +39,6 @@ const templateOne = (() => {
     ],
   };
   return {
-    element,
+    navBar,
   };
 })();
