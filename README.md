@@ -9,3 +9,8 @@ A lightweight package to turn object templates into styled DOM elements.
 ## Usage
 
 TBC
+
+## Todo
+
+1. Complete usage
+2. Create example files
